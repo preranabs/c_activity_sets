@@ -6,4 +6,4 @@ int sum=0;
 sum=a+b;
 return sum;
 printf("the sum is:",sum);
-// }
+}
