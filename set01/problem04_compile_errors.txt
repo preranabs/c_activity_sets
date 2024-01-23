@@ -48,3 +48,7 @@ c:/Users/Dell/Documents/GitHub/c_activity_sets/set01/problem04.c:7: undefined re
 c:/Users/Dell/Documents/GitHub/c_activity_sets/set01/problem04.c:8: undefined reference to `result'
 collect2.exe: error: ld returned 1 exit status
 Compilation finished at 1/23/2024, 10:08:50 AM
+Compilation started at 1/23/2024, 10:09:55 AM
+Compilation finished at 1/23/2024, 10:09:55 AM
+Compilation started at 1/23/2024, 10:10:08 AM
+Compilation finished at 1/23/2024, 10:10:09 AM
