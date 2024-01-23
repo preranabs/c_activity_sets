@@ -4,8 +4,8 @@ void add (int a, int b,int *sum);
 void output(int a,int b,int sum);
 int main(){
     int num1, num2, sum;
-    num1=result();
-    num2=result();
+    num1=input();
+    num2=input();
     add(num1,num2,&sum);
     output(num1,num2,sum);
     return 0;
