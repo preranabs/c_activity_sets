@@ -1,0 +1,50 @@
+Compilation started at 1/23/2024, 10:07:11 AM
+c:\Users\Dell\Documents\GitHub\c_activity_sets\set01\problem04.c: In function 'main':
+c:\Users\Dell\Documents\GitHub\c_activity_sets\set01\problem04.c:7:10: warning: implicit declaration of function 'result' [-Wimplicit-function-declaration]
+     num1=result();
+          ^~~~~~
+C:\Users\Dell\AppData\Local\Temp\ccnbjSUb.o: In function `main':
+c:/Users/Dell/Documents/GitHub/c_activity_sets/set01/problem04.c:7: undefined reference to `result'
+c:/Users/Dell/Documents/GitHub/c_activity_sets/set01/problem04.c:8: undefined reference to `result'
+collect2.exe: error: ld returned 1 exit status
+Compilation finished at 1/23/2024, 10:07:12 AM
+Compilation started at 1/23/2024, 10:07:24 AM
+c:\Users\Dell\Documents\GitHub\c_activity_sets\set01\problem04.c: In function 'main':
+c:\Users\Dell\Documents\GitHub\c_activity_sets\set01\problem04.c:7:10: warning: implicit declaration of function 'result' [-Wimplicit-function-declaration]
+     num1=result();
+          ^~~~~~
+C:\Users\Dell\AppData\Local\Temp\ccvcsqHq.o: In function `main':
+c:/Users/Dell/Documents/GitHub/c_activity_sets/set01/problem04.c:7: undefined reference to `result'
+c:/Users/Dell/Documents/GitHub/c_activity_sets/set01/problem04.c:8: undefined reference to `result'
+collect2.exe: error: ld returned 1 exit status
+Compilation finished at 1/23/2024, 10:07:25 AM
+Compilation started at 1/23/2024, 10:08:13 AM
+c:\Users\Dell\Documents\GitHub\c_activity_sets\set01\problem04.c: In function 'main':
+c:\Users\Dell\Documents\GitHub\c_activity_sets\set01\problem04.c:7:10: warning: implicit declaration of function 'result' [-Wimplicit-function-declaration]
+     num1=result();
+          ^~~~~~
+C:\Users\Dell\AppData\Local\Temp\cc0oluBl.o: In function `main':
+c:/Users/Dell/Documents/GitHub/c_activity_sets/set01/problem04.c:7: undefined reference to `result'
+c:/Users/Dell/Documents/GitHub/c_activity_sets/set01/problem04.c:8: undefined reference to `result'
+collect2.exe: error: ld returned 1 exit status
+Compilation finished at 1/23/2024, 10:08:14 AM
+Compilation started at 1/23/2024, 10:08:19 AM
+c:\Users\Dell\Documents\GitHub\c_activity_sets\set01\problem04.c: In function 'main':
+c:\Users\Dell\Documents\GitHub\c_activity_sets\set01\problem04.c:7:10: warning: implicit declaration of function 'result' [-Wimplicit-function-declaration]
+     num1=result();
+          ^~~~~~
+C:\Users\Dell\AppData\Local\Temp\ccYnsAcD.o: In function `main':
+c:/Users/Dell/Documents/GitHub/c_activity_sets/set01/problem04.c:7: undefined reference to `result'
+c:/Users/Dell/Documents/GitHub/c_activity_sets/set01/problem04.c:8: undefined reference to `result'
+collect2.exe: error: ld returned 1 exit status
+Compilation finished at 1/23/2024, 10:08:20 AM
+Compilation started at 1/23/2024, 10:08:50 AM
+c:\Users\Dell\Documents\GitHub\c_activity_sets\set01\problem04.c: In function 'main':
+c:\Users\Dell\Documents\GitHub\c_activity_sets\set01\problem04.c:7:10: warning: implicit declaration of function 'result' [-Wimplicit-function-declaration]
+     num1=result();
+          ^~~~~~
+C:\Users\Dell\AppData\Local\Temp\ccqyBUyn.o: In function `main':
+c:/Users/Dell/Documents/GitHub/c_activity_sets/set01/problem04.c:7: undefined reference to `result'
+c:/Users/Dell/Documents/GitHub/c_activity_sets/set01/problem04.c:8: undefined reference to `result'
+collect2.exe: error: ld returned 1 exit status
+Compilation finished at 1/23/2024, 10:08:50 AM
