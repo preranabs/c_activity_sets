@@ -1,0 +1,8 @@
++git add .
+Undefined command: "git".  Try "help".
++git commit -m "committed 1/23/2024, 10:52:17 AM"
+Undefined command: "git".  Try "help".
++git push
+Undefined command: "git".  Try "help".
++q
++q
