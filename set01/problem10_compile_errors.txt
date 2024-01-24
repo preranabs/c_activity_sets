@@ -1,8 +1,38 @@
-Compilation started at 1/23/2024, 10:59:13 AM
-Compilation finished at 1/23/2024, 10:59:13 AM
-Compilation started at 1/23/2024, 10:59:39 AM
-Compilation finished at 1/23/2024, 10:59:40 AM
-Compilation started at 1/23/2024, 11:06:09 AM
-Compilation finished at 1/23/2024, 11:06:10 AM
-Compilation started at 1/23/2024, 11:06:31 AM
-Compilation finished at 1/23/2024, 11:06:31 AM
+Compilation started at 1/23/2024, 10:55:09 PM
+c:\Users\Dell\c_activity_sets\set01\problem10.c: In function 'main':
+c:\Users\Dell\c_activity_sets\set01\problem10.c:6:3: warning: implicit declaration of function 'input_two_strings' [-Wimplicit-function-declaration]
+   input_two_strings(string1, string2);
+   ^~~~~~~~~~~~~~~~~
+c:\Users\Dell\c_activity_sets\set01\problem10.c:7:10: warning: implicit declaration of function 'stringcompare' [-Wimplicit-function-declaration]
+   result=stringcompare(string1,string2);
+          ^~~~~~~~~~~~~
+c:\Users\Dell\c_activity_sets\set01\problem10.c:8:3: warning: implicit declaration of function 'output' [-Wimplicit-function-declaration]
+   output(string1,string2,result);
+   ^~~~~~
+c:\Users\Dell\c_activity_sets\set01\problem10.c: At top level:
+c:\Users\Dell\c_activity_sets\set01\problem10.c:11:6: warning: conflicting types for 'input_two_strings'
+ void input_two_strings(char *string1, char *string2){
+      ^~~~~~~~~~~~~~~~~
+c:\Users\Dell\c_activity_sets\set01\problem10.c:6:3: note: previous implicit declaration of 'input_two_strings' was here
+   input_two_strings(string1, string2);
+   ^~~~~~~~~~~~~~~~~
+c:\Users\Dell\c_activity_sets\set01\problem10.c:26:6: warning: conflicting types for 'output'
+ void output(char *string1, char *string2, int result){
+      ^~~~~~
+c:\Users\Dell\c_activity_sets\set01\problem10.c:8:3: note: previous implicit declaration of 'output' was here
+   output(string1,string2,result);
+   ^~~~~~
+c:\Users\Dell\c_activity_sets\set01\problem10.c: In function 'output':
+c:\Users\Dell\c_activity_sets\set01\problem10.c:27:6: error: expected expression before 'return'
+   if(return==0)
+      ^~~~~~
+c:\Users\Dell\c_activity_sets\set01\problem10.c:29:11: error: expected expression before 'return'
+   else if(return==1);
+           ^~~~~~
+c:\Users\Dell\c_activity_sets\set01\problem10.c:31:3: error: 'else' without a previous 'if'
+   else if (return==2);
+   ^~~~
+c:\Users\Dell\c_activity_sets\set01\problem10.c:31:12: error: expected expression before 'return'
+   else if (return==2);
+            ^~~~~~
+Compilation finished at 1/23/2024, 10:55:10 PM
