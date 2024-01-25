@@ -10,3 +10,35 @@ compiler for c language that converts c source file to executable.
 what is the meaning of processing a line  with preprocessor that include hash?
 #include<stdio.h>
 when a c source is preprocessed and gives c source which means #include which is given is executed but in output it won't be there because the header file will be executed successfully
+
+what is stdio.h?
+it is a hearder file containing fuction prototype.
+
+ what is a fuction prototype?
+ it contain list of arguments, number of arguement, return type.
+
+ what is the use of function prototype?
+ right number of parameters , right typr of parameters,return values assigned to the parameters
+
+ what is int main()
+ main is a function
+ main returns a integer
+ main is the starting point if a program
+
+ what is 
+     int main(){
+        printf("my name is prerana\n");
+
+     }
+what is printf?
+printdf is a std lib function use to print a string on the console terminal screen std output
+
+what \n indicated in a font string ?
+move the cursor to newline in terminal
+
+int main(){
+        printf("my name is prerana\n");
+        return 0;
+     }
+what does return statement do?
+transfer control from called fuction to calling function and optionally returns a value.
