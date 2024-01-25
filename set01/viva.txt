@@ -1,0 +1,8 @@
+what is hash#?
+hash indicate lines which should be preprocessed by a prespocesser.
+
+what is prespocesser?
+it gives ouput basedon the input data given by the user.
+
+what is gcc?
+compiler for c language that converts c source file to executable.

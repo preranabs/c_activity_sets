@@ -1,0 +1,14 @@
+what is hash#?
+hash indicate lines which should be preprocessed by a prespocesser.
+
+what is prespocesser?
+it gives ouput basedon the input data given by the user.
+
+what is gcc?
+compiler for c language that converts c source file to executable.
+
+processor of gcc will process lines starting with hash
+
+what is the meaning of processing a line  with preprocessor that include hash?
+#include<stdio.h>
+when a c source is preprocessed and gives c source which means #include which is given is executed but in output it won't be there because the header file will be executed successfully
