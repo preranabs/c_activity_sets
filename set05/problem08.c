@@ -1,0 +1,1 @@
+//8.  Write program to find the weight of a truck load of n camels.
