@@ -1,0 +1,25 @@
++git add .
+Undefined command: "git".  Try "help".
++git commit -m "committed 2/4/2024, 12:06:20 PM"
+Undefined command: "git".  Try "help".
++git push
+Undefined command: "git".  Try "help".
++cd "c:\Users\Dell\c_activity_sets\set02"
+"c:\Users\Dell\c_activity_sets\set02": Invalid argument.
++gcc -g "c:\Users\Dell\c_activity_sets\set02\problem02.c" -o "c:\Users\Dell\c_activity_sets\set02\problem02.exe" 2>&1
+Undefined command: "gcc".  Try "help".
++"c:\Users\Dell\c_activity_sets\set02\problem02.exe"
+Undefined command: "".  Try "help".
++cd "c:\Users\Dell\c_activity_sets\set02"
+"c:\Users\Dell\c_activity_sets\set02": Invalid argument.
++gdb ./problem02
+Undefined command: "gdb".  Try "help".
++c
+The program is not being run.
++set logging file problem02_debug.log
++set logging enabled on
+Undefined set logging command: "enabled on".  Try "help set logging".
++set logging on
+Already logging to problem01_debug.log.
++set trace-commands on
++q
