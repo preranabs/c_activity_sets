@@ -64,3 +64,4 @@ A debugging session is active.
 	Inferior 1 [process 17876] will be killed.
 
 Quit anyway? (y or n) error return ../../gdb-7.6.1/gdb/windows-nat.c:1275 was 5
+Undefined command: "qset".  Try "help".
