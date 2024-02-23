@@ -6,15 +6,11 @@ void output(int a, int b, int c, int isscalene);
 
 int main() {
     int side1, side2, side3;
-    
     side1 = input_side();
     side2 = input_side();
     side3 = input_side();
-    
     int isscalene = check_scalene(side1, side2, side3);
-    
     output(side1, side2, side3, isscalene);
-    
     return 0;
 }
 int input_side() {
