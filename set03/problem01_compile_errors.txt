@@ -1,0 +1,26 @@
+Compilation started at 2/27/2024, 1:39:45 PM
+c:\Users\Dell\c_activity_sets\set03\problem01.c: In function 'find_distance':
+c:\Users\Dell\c_activity_sets\set03\problem01.c:21:15: warning: implicit declaration of function 'sqrt' [-Wimplicit-function-declaration]
+        return sqrt(pow(x2 - x1, 2) + pow(y2 - y1, 2));
+               ^~~~
+c:\Users\Dell\c_activity_sets\set03\problem01.c:21:15: warning: incompatible implicit declaration of built-in function 'sqrt'
+c:\Users\Dell\c_activity_sets\set03\problem01.c:21:15: note: include '<math.h>' or provide a declaration of 'sqrt'
+c:\Users\Dell\c_activity_sets\set03\problem01.c:21:20: warning: implicit declaration of function 'pow' [-Wimplicit-function-declaration]
+        return sqrt(pow(x2 - x1, 2) + pow(y2 - y1, 2));
+                    ^~~
+c:\Users\Dell\c_activity_sets\set03\problem01.c:21:20: warning: incompatible implicit declaration of built-in function 'pow'
+c:\Users\Dell\c_activity_sets\set03\problem01.c:21:20: note: include '<math.h>' or provide a declaration of 'pow'
+Compilation finished at 2/27/2024, 1:39:45 PM
+Compilation started at 2/27/2024, 1:40:42 PM
+c:\Users\Dell\c_activity_sets\set03\problem01.c: In function 'find_distance':
+c:\Users\Dell\c_activity_sets\set03\problem01.c:21:15: warning: implicit declaration of function 'sqrt' [-Wimplicit-function-declaration]
+        return sqrt(pow(x2 - x1, 2) + pow(y2 - y1, 2));
+               ^~~~
+c:\Users\Dell\c_activity_sets\set03\problem01.c:21:15: warning: incompatible implicit declaration of built-in function 'sqrt'
+c:\Users\Dell\c_activity_sets\set03\problem01.c:21:15: note: include '<math.h>' or provide a declaration of 'sqrt'
+c:\Users\Dell\c_activity_sets\set03\problem01.c:21:20: warning: implicit declaration of function 'pow' [-Wimplicit-function-declaration]
+        return sqrt(pow(x2 - x1, 2) + pow(y2 - y1, 2));
+                    ^~~
+c:\Users\Dell\c_activity_sets\set03\problem01.c:21:20: warning: incompatible implicit declaration of built-in function 'pow'
+c:\Users\Dell\c_activity_sets\set03\problem01.c:21:20: note: include '<math.h>' or provide a declaration of 'pow'
+Compilation finished at 2/27/2024, 1:40:42 PM
