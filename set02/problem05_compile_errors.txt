@@ -12,3 +12,15 @@ Compilation started at 3/1/2024, 1:48:50 PM
 Compilation finished at 3/1/2024, 1:48:51 PM
 Compilation started at 3/1/2024, 1:49:18 PM
 Compilation finished at 3/1/2024, 1:49:18 PM
+Compilation started at 3/1/2024, 2:37:15 PM
+c:\Users\Dell\c_activity_sets\set02\problem05.c: In function 'main':
+c:\Users\Dell\c_activity_sets\set02\problem05.c:16:14: error: expected expression before '.' token
+     return 0;.
+              ^
+Compilation finished at 3/1/2024, 2:37:16 PM
+Compilation started at 3/1/2024, 2:37:32 PM
+c:\Users\Dell\c_activity_sets\set02\problem05.c: In function 'main':
+c:\Users\Dell\c_activity_sets\set02\problem05.c:16:14: error: expected expression before '.' token
+     return 0;.
+              ^
+Compilation finished at 3/1/2024, 2:37:32 PM

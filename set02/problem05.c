@@ -13,7 +13,7 @@ int main() {
 
     output(num1, num2, gcd);
 
-    return 0;
+    return 0;.
 }
 
 int input() {
