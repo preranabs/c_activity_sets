@@ -1,0 +1,13 @@
+Compilation started at 3/2/2024, 8:56:55 PM
+c:\Users\Dell\c_activity_sets\set03\problem05.c: In function 'main':
+c:\Users\Dell\c_activity_sets\set03\problem05.c:14:5: warning: implicit declaration of function 'eratosthenes_sieve' [-Wimplicit-function-declaration]
+     eratosthenes_sieve(n, primes);
+     ^~~~~~~~~~~~~~~~~~
+c:\Users\Dell\c_activity_sets\set03\problem05.c: At top level:
+c:\Users\Dell\c_activity_sets\set03\problem05.c:32:6: warning: conflicting types for 'eratosthenes_sieve'
+ void eratosthenes_sieve(int n, int a[n]) {
+      ^~~~~~~~~~~~~~~~~~
+c:\Users\Dell\c_activity_sets\set03\problem05.c:14:5: note: previous implicit declaration of 'eratosthenes_sieve' was here
+     eratosthenes_sieve(n, primes);
+     ^~~~~~~~~~~~~~~~~~
+Compilation finished at 3/2/2024, 8:56:56 PM

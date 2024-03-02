@@ -6,6 +6,16 @@ void init_array(int n, int a[n]);
 void erotosthenes_sieve(int n, int a[n]);
 void output(int n, int a[n]);
 
+int main() {
+    int n;
+    n = input_array_size();
+    int primes[n + 1];
+    init_array(n, primes);
+    eratosthenes_sieve(n, primes);
+    output(n, primes);
+    return 0;
+}
+
 int input_array_size() {
     int n;
     printf("Enter the upper limit (n): ");
@@ -37,14 +47,4 @@ void output(int n, int a[n]) {
         }
     }
     printf("\n");
-}
-
-int main() {
-    int n;
-    n = input_array_size();
-    int primes[n + 1];
-    init_array(n, primes);
-    eratosthenes_sieve(n, primes);
-    output(n, primes);
-    return 0;
 }
