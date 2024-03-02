@@ -19,3 +19,21 @@ void input_string(char* a, char* b) {
     printf("Enter the substring: ");
     scanf("%s", b);
 }
+
+int sub_str_index(char* string, char* substring) {
+    int len_str = strlen(string);
+    int len_sub = strlen(substring);
+
+    for (int i = 0; i <= len_str - len_sub; ++i) {
+        int j;
+        for (j = 0; j < len_sub; ++j) {
+            if (string[i + j] != substring[j]) {
+                break;
+            }
+        }
+        if (j == len_sub) {
+            return i;  
+        }
+    }
+    return -1;  
+}
