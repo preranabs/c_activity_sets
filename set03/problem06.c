@@ -9,9 +9,13 @@ int main() {
     char main_string[100], sub_string[100];
     input_string(main_string, sub_string);
     int index = sub_str_index(main_string, sub_string);
-    
-    // Display the result
     output(main_string, sub_string, index);
-
     return 0;
+}
+
+void input_string(char* a, char* b) {
+    printf("Enter the main string: ");
+    scanf("%s", a);
+    printf("Enter the substring: ");
+    scanf("%s", b);
 }
