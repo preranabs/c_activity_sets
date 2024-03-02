@@ -24,3 +24,9 @@ c:\Users\Dell\c_activity_sets\set02\problem05.c:16:14: error: expected expressio
      return 0;.
               ^
 Compilation finished at 3/1/2024, 2:37:32 PM
+Compilation started at 3/1/2024, 2:38:00 PM
+c:\Users\Dell\c_activity_sets\set02\problem05.c: In function 'main':
+c:\Users\Dell\c_activity_sets\set02\problem05.c:16:14: error: expected expression before '.' token
+     return 0;.
+              ^
+Compilation finished at 3/1/2024, 2:38:01 PM
