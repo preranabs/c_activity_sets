@@ -41,17 +41,10 @@ void output(int n, int a[n]) {
 
 int main() {
     int n;
-    
     n = input_array_size();
-    
     int primes[n + 1];
     init_array(n, primes);
-    
-    // Find prime numbers using Eratosthenes Sieve
     eratosthenes_sieve(n, primes);
-    
-    // Display the result
     output(n, primes);
-
     return 0;
 }
