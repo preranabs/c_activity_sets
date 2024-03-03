@@ -1,0 +1,112 @@
+Compilation started at 3/3/2024, 10:23:50 PM
+c:\Users\Dell\c_activity_sets\set03\problem07.c: In function 'main':
+c:\Users\Dell\c_activity_sets\set03\problem07.c:6:5: error: unknown type name 'Line'
+     Line line = input_line();
+     ^~~~
+c:\Users\Dell\c_activity_sets\set03\problem07.c:6:17: warning: implicit declaration of function 'input_line' [-Wimplicit-function-declaration]
+     Line line = input_line();
+                 ^~~~~~~~~~
+c:\Users\Dell\c_activity_sets\set03\problem07.c:7:5: warning: implicit declaration of function 'find_length' [-Wimplicit-function-declaration]
+     find_length(&line);
+     ^~~~~~~~~~~
+c:\Users\Dell\c_activity_sets\set03\problem07.c:8:5: warning: implicit declaration of function 'output' [-Wimplicit-function-declaration]
+     output(line);
+     ^~~~~~
+c:\Users\Dell\c_activity_sets\set03\problem07.c: At top level:
+c:\Users\Dell\c_activity_sets\set03\problem07.c:30:6: error: conflicting types for 'input_line'
+ Line input_line() {
+      ^~~~~~~~~~
+c:\Users\Dell\c_activity_sets\set03\problem07.c:6:17: note: previous implicit declaration of 'input_line' was here
+     Line line = input_line();
+                 ^~~~~~~~~~
+c:\Users\Dell\c_activity_sets\set03\problem07.c:39:6: warning: conflicting types for 'find_length'
+ void find_length(Line *l) {
+      ^~~~~~~~~~~
+c:\Users\Dell\c_activity_sets\set03\problem07.c:7:5: note: previous implicit declaration of 'find_length' was here
+     find_length(&line);
+     ^~~~~~~~~~~
+c:\Users\Dell\c_activity_sets\set03\problem07.c:43:6: warning: conflicting types for 'output'
+ void output(Line l) {
+      ^~~~~~
+c:\Users\Dell\c_activity_sets\set03\problem07.c:8:5: note: previous implicit declaration of 'output' was here
+     output(line);
+     ^~~~~~
+c:\Users\Dell\c_activity_sets\set03\problem07.c:47:5: error: redefinition of 'main'
+ int main() {
+     ^~~~
+c:\Users\Dell\c_activity_sets\set03\problem07.c:5:5: note: previous definition of 'main' was here
+ int main() {
+     ^~~~
+Compilation finished at 3/3/2024, 10:23:50 PM
+Compilation started at 3/3/2024, 10:24:15 PM
+c:\Users\Dell\c_activity_sets\set03\problem07.c: In function 'main':
+c:\Users\Dell\c_activity_sets\set03\problem07.c:6:5: error: unknown type name 'Line'
+     Line line = input_line();
+     ^~~~
+c:\Users\Dell\c_activity_sets\set03\problem07.c:6:17: warning: implicit declaration of function 'input_line' [-Wimplicit-function-declaration]
+     Line line = input_line();
+                 ^~~~~~~~~~
+c:\Users\Dell\c_activity_sets\set03\problem07.c:7:5: warning: implicit declaration of function 'find_length' [-Wimplicit-function-declaration]
+     find_length(&line);
+     ^~~~~~~~~~~
+c:\Users\Dell\c_activity_sets\set03\problem07.c:8:5: warning: implicit declaration of function 'output' [-Wimplicit-function-declaration]
+     output(line);
+     ^~~~~~
+c:\Users\Dell\c_activity_sets\set03\problem07.c: At top level:
+c:\Users\Dell\c_activity_sets\set03\problem07.c:30:6: error: conflicting types for 'input_line'
+ Line input_line() {
+      ^~~~~~~~~~
+c:\Users\Dell\c_activity_sets\set03\problem07.c:6:17: note: previous implicit declaration of 'input_line' was here
+     Line line = input_line();
+                 ^~~~~~~~~~
+c:\Users\Dell\c_activity_sets\set03\problem07.c:39:6: warning: conflicting types for 'find_length'
+ void find_length(Line *l) {
+      ^~~~~~~~~~~
+c:\Users\Dell\c_activity_sets\set03\problem07.c:7:5: note: previous implicit declaration of 'find_length' was here
+     find_length(&line);
+     ^~~~~~~~~~~
+c:\Users\Dell\c_activity_sets\set03\problem07.c:43:6: warning: conflicting types for 'output'
+ void output(Line l) {
+      ^~~~~~
+c:\Users\Dell\c_activity_sets\set03\problem07.c:8:5: note: previous implicit declaration of 'output' was here
+     output(line);
+     ^~~~~~
+Compilation finished at 3/3/2024, 10:24:16 PM
+Compilation started at 3/3/2024, 10:25:04 PM
+Compilation finished at 3/3/2024, 10:25:05 PM
+Compilation started at 3/3/2024, 10:25:47 PM
+c:\Users\Dell\c_activity_sets\set03\problem07.c: In function 'main':
+c:\Users\Dell\c_activity_sets\set03\problem07.c:5:5: error: unknown type name 'Line'
+     Line line = input_line();
+     ^~~~
+c:\Users\Dell\c_activity_sets\set03\problem07.c:5:17: warning: implicit declaration of function 'input_line' [-Wimplicit-function-declaration]
+     Line line = input_line();
+                 ^~~~~~~~~~
+c:\Users\Dell\c_activity_sets\set03\problem07.c:6:5: warning: implicit declaration of function 'find_length' [-Wimplicit-function-declaration]
+     find_length(&line);
+     ^~~~~~~~~~~
+c:\Users\Dell\c_activity_sets\set03\problem07.c:7:5: warning: implicit declaration of function 'output' [-Wimplicit-function-declaration]
+     output(line);
+     ^~~~~~
+c:\Users\Dell\c_activity_sets\set03\problem07.c: At top level:
+c:\Users\Dell\c_activity_sets\set03\problem07.c:29:6: error: conflicting types for 'input_line'
+ Line input_line() {
+      ^~~~~~~~~~
+c:\Users\Dell\c_activity_sets\set03\problem07.c:5:17: note: previous implicit declaration of 'input_line' was here
+     Line line = input_line();
+                 ^~~~~~~~~~
+c:\Users\Dell\c_activity_sets\set03\problem07.c:38:6: warning: conflicting types for 'find_length'
+ void find_length(Line *l) {
+      ^~~~~~~~~~~
+c:\Users\Dell\c_activity_sets\set03\problem07.c:6:5: note: previous implicit declaration of 'find_length' was here
+     find_length(&line);
+     ^~~~~~~~~~~
+c:\Users\Dell\c_activity_sets\set03\problem07.c:42:6: warning: conflicting types for 'output'
+ void output(Line l) {
+      ^~~~~~
+c:\Users\Dell\c_activity_sets\set03\problem07.c:7:5: note: previous implicit declaration of 'output' was here
+     output(line);
+     ^~~~~~
+Compilation finished at 3/3/2024, 10:25:47 PM
+Compilation started at 3/3/2024, 10:26:11 PM
+Compilation finished at 3/3/2024, 10:26:11 PM
