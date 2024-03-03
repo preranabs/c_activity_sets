@@ -2,14 +2,6 @@
 #include <stdio.h>
 #include <math.h>
 
-int main() {
-    Polygon polygon;
-    if (input_polygon(&polygon)) {
-        find_perimeter(&polygon);
-        output(polygon);
-    }
-    return 0;
-}
 typedef struct point {
     float x, y;
 } Point;
@@ -64,4 +56,13 @@ void find_perimeter(Polygon* p) {
 
 void output(Polygon p) {
     printf("Perimeter of the polygon: %.2f\n", p.perimeter);
+}
+
+int main() {
+    Polygon polygon;
+    if (input_polygon(&polygon)) {
+        find_perimeter(&polygon);
+        output(polygon);
+    }
+    return 0;
 }

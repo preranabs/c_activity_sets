@@ -1,0 +1,32 @@
+Compilation started at 3/3/2024, 10:26:48 PM
+c:\Users\Dell\c_activity_sets\set03\problem08.c: In function 'main':
+c:\Users\Dell\c_activity_sets\set03\problem08.c:6:5: error: unknown type name 'Polygon'
+     Polygon polygon;
+     ^~~~~~~
+c:\Users\Dell\c_activity_sets\set03\problem08.c:7:9: warning: implicit declaration of function 'input_polygon' [-Wimplicit-function-declaration]
+     if (input_polygon(&polygon)) {
+         ^~~~~~~~~~~~~
+c:\Users\Dell\c_activity_sets\set03\problem08.c:8:9: warning: implicit declaration of function 'find_perimeter' [-Wimplicit-function-declaration]
+         find_perimeter(&polygon);
+         ^~~~~~~~~~~~~~
+c:\Users\Dell\c_activity_sets\set03\problem08.c:9:9: warning: implicit declaration of function 'output' [-Wimplicit-function-declaration]
+         output(polygon);
+         ^~~~~~
+c:\Users\Dell\c_activity_sets\set03\problem08.c: At top level:
+c:\Users\Dell\c_activity_sets\set03\problem08.c:57:6: warning: conflicting types for 'find_perimeter'
+ void find_perimeter(Polygon* p) {
+      ^~~~~~~~~~~~~~
+c:\Users\Dell\c_activity_sets\set03\problem08.c:8:9: note: previous implicit declaration of 'find_perimeter' was here
+         find_perimeter(&polygon);
+         ^~~~~~~~~~~~~~
+c:\Users\Dell\c_activity_sets\set03\problem08.c:65:6: warning: conflicting types for 'output'
+ void output(Polygon p) {
+      ^~~~~~
+c:\Users\Dell\c_activity_sets\set03\problem08.c:9:9: note: previous implicit declaration of 'output' was here
+         output(polygon);
+         ^~~~~~
+Compilation finished at 3/3/2024, 10:26:49 PM
+Compilation started at 3/3/2024, 10:26:59 PM
+Compilation finished at 3/3/2024, 10:27:00 PM
+Compilation started at 3/3/2024, 10:27:50 PM
+Compilation finished at 3/3/2024, 10:27:50 PM
