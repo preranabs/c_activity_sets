@@ -1,0 +1,11 @@
+Compilation started at 3/4/2024, 6:39:41 PM
+c:\Users\Dell\c_activity_sets\set04\problem07.c: In function 'main':
+c:\Users\Dell\c_activity_sets\set04\problem07.c:45:5: error: too few arguments to function 'output'
+     output(f1, f2, sum);
+     ^~~~~~
+c:\Users\Dell\c_activity_sets\set04\problem07.c:33:6: note: declared here
+ void output(Fraction f1, Fraction f2, Fraction f3, Fraction sum) {
+      ^~~~~~
+Compilation finished at 3/4/2024, 6:39:41 PM
+Compilation started at 3/4/2024, 6:41:57 PM
+Compilation finished at 3/4/2024, 6:41:58 PM
