@@ -1,0 +1,93 @@
+Compilation started at 3/4/2024, 6:05:24 PM
+c:\Users\Dell\c_activity_sets\set04\problem01.c: In function 'main':
+c:\Users\Dell\c_activity_sets\set04\problem01.c:6:5: warning: implicit declaration of function 'input' [-Wimplicit-function-declaration]
+     input(&num1, &den1, &num2, &den2);
+     ^~~~~
+c:\Users\Dell\c_activity_sets\set04\problem01.c:7:5: warning: implicit declaration of function 'add' [-Wimplicit-function-declaration]
+     add(num1, den1, num2, den2, &res_num, &res_den);
+     ^~~
+c:\Users\Dell\c_activity_sets\set04\problem01.c:8:5: warning: implicit declaration of function 'output' [-Wimplicit-function-declaration]
+     output(num1, den1, num2, den2, res_num, res_den);
+     ^~~~~~
+c:\Users\Dell\c_activity_sets\set04\problem01.c: At top level:
+c:\Users\Dell\c_activity_sets\set04\problem01.c:12:6: warning: conflicting types for 'input'
+ void input(int *num1, int *den1, int *num2, int *den2) {
+      ^~~~~
+c:\Users\Dell\c_activity_sets\set04\problem01.c:6:5: note: previous implicit declaration of 'input' was here
+     input(&num1, &den1, &num2, &den2);
+     ^~~~~
+c:\Users\Dell\c_activity_sets\set04\problem01.c:20:6: warning: conflicting types for 'add'
+ void add(int num1, int den1, int num2, int den2, int *res_num, int *res_den) {
+      ^~~
+c:\Users\Dell\c_activity_sets\set04\problem01.c:7:5: note: previous implicit declaration of 'add' was here
+     add(num1, den1, num2, den2, &res_num, &res_den);
+     ^~~
+c:\Users\Dell\c_activity_sets\set04\problem01.c:25:6: warning: conflicting types for 'output'
+ void output(int num1, int den1, int num2, int den2, int res_num, int res_den) {
+      ^~~~~~
+c:\Users\Dell\c_activity_sets\set04\problem01.c:8:5: note: previous implicit declaration of 'output' was here
+     output(num1, den1, num2, den2, res_num, res_den);
+     ^~~~~~
+Compilation finished at 3/4/2024, 6:05:25 PM
+Compilation started at 3/4/2024, 6:06:05 PM
+c:\Users\Dell\c_activity_sets\set04\problem01.c: In function 'main':
+c:\Users\Dell\c_activity_sets\set04\problem01.c:6:5: warning: implicit declaration of function 'input' [-Wimplicit-function-declaration]
+     input(&num1, &den1, &num2, &den2);
+     ^~~~~
+c:\Users\Dell\c_activity_sets\set04\problem01.c:7:5: warning: implicit declaration of function 'add' [-Wimplicit-function-declaration]
+     add(num1, den1, num2, den2, &res_num, &res_den);
+     ^~~
+c:\Users\Dell\c_activity_sets\set04\problem01.c:8:5: warning: implicit declaration of function 'output' [-Wimplicit-function-declaration]
+     output(num1, den1, num2, den2, res_num, res_den);
+     ^~~~~~
+c:\Users\Dell\c_activity_sets\set04\problem01.c: At top level:
+c:\Users\Dell\c_activity_sets\set04\problem01.c:12:6: warning: conflicting types for 'input'
+ void input(int *num1, int *den1, int *num2, int *den2) {
+      ^~~~~
+c:\Users\Dell\c_activity_sets\set04\problem01.c:6:5: note: previous implicit declaration of 'input' was here
+     input(&num1, &den1, &num2, &den2);
+     ^~~~~
+c:\Users\Dell\c_activity_sets\set04\problem01.c:20:6: warning: conflicting types for 'add'
+ void add(int num1, int den1, int num2, int den2, int *res_num, int *res_den) {
+      ^~~
+c:\Users\Dell\c_activity_sets\set04\problem01.c:7:5: note: previous implicit declaration of 'add' was here
+     add(num1, den1, num2, den2, &res_num, &res_den);
+     ^~~
+c:\Users\Dell\c_activity_sets\set04\problem01.c:25:6: warning: conflicting types for 'output'
+ void output(int num1, int den1, int num2, int den2, int res_num, int res_den) {
+      ^~~~~~
+c:\Users\Dell\c_activity_sets\set04\problem01.c:8:5: note: previous implicit declaration of 'output' was here
+     output(num1, den1, num2, den2, res_num, res_den);
+     ^~~~~~
+Compilation finished at 3/4/2024, 6:06:06 PM
+Compilation started at 3/4/2024, 6:06:53 PM
+c:\Users\Dell\c_activity_sets\set04\problem01.c: In function 'main':
+c:\Users\Dell\c_activity_sets\set04\problem01.c:6:5: warning: implicit declaration of function 'input' [-Wimplicit-function-declaration]
+     input(&num1, &den1, &num2, &den2);
+     ^~~~~
+c:\Users\Dell\c_activity_sets\set04\problem01.c:7:5: warning: implicit declaration of function 'add' [-Wimplicit-function-declaration]
+     add(num1, den1, num2, den2, &res_num, &res_den);
+     ^~~
+c:\Users\Dell\c_activity_sets\set04\problem01.c:8:5: warning: implicit declaration of function 'output' [-Wimplicit-function-declaration]
+     output(num1, den1, num2, den2, res_num, res_den);
+     ^~~~~~
+c:\Users\Dell\c_activity_sets\set04\problem01.c: At top level:
+c:\Users\Dell\c_activity_sets\set04\problem01.c:12:6: warning: conflicting types for 'input'
+ void input(int *num1, int *den1, int *num2, int *den2) {
+      ^~~~~
+c:\Users\Dell\c_activity_sets\set04\problem01.c:6:5: note: previous implicit declaration of 'input' was here
+     input(&num1, &den1, &num2, &den2);
+     ^~~~~
+c:\Users\Dell\c_activity_sets\set04\problem01.c:20:6: warning: conflicting types for 'add'
+ void add(int num1, int den1, int num2, int den2, int *res_num, int *res_den) {
+      ^~~
+c:\Users\Dell\c_activity_sets\set04\problem01.c:7:5: note: previous implicit declaration of 'add' was here
+     add(num1, den1, num2, den2, &res_num, &res_den);
+     ^~~
+c:\Users\Dell\c_activity_sets\set04\problem01.c:25:6: warning: conflicting types for 'output'
+ void output(int num1, int den1, int num2, int den2, int res_num, int res_den) {
+      ^~~~~~
+c:\Users\Dell\c_activity_sets\set04\problem01.c:8:5: note: previous implicit declaration of 'output' was here
+     output(num1, den1, num2, den2, res_num, res_den);
+     ^~~~~~
+Compilation finished at 3/4/2024, 6:06:54 PM
