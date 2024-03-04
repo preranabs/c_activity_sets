@@ -1,0 +1,36 @@
+Compilation started at 3/4/2024, 6:15:07 PM
+c:\Users\Dell\c_activity_sets\set04\problem02.c: In function 'main':
+c:\Users\Dell\c_activity_sets\set04\problem02.c:11:5: warning: implicit declaration of function 'input' [-Wimplicit-function-declaration]
+     input(&f1, &f2, &f3);
+     ^~~~~
+c:\Users\Dell\c_activity_sets\set04\problem02.c:12:20: warning: implicit declaration of function 'smallest' [-Wimplicit-function-declaration]
+     min_fraction = smallest(f1, f2, f3);
+                    ^~~~~~~~
+c:\Users\Dell\c_activity_sets\set04\problem02.c:12:18: error: incompatible types when assigning to type 'Fraction {aka struct <anonymous>}' from type 'int'
+     min_fraction = smallest(f1, f2, f3);
+                  ^
+c:\Users\Dell\c_activity_sets\set04\problem02.c:13:5: warning: implicit declaration of function 'output' [-Wimplicit-function-declaration]
+     output(f1, f2, f3, min_fraction);
+     ^~~~~~
+c:\Users\Dell\c_activity_sets\set04\problem02.c: At top level:
+c:\Users\Dell\c_activity_sets\set04\problem02.c:18:6: warning: conflicting types for 'input'
+ void input(Fraction *f1, Fraction *f2, Fraction *f3) {
+      ^~~~~
+c:\Users\Dell\c_activity_sets\set04\problem02.c:11:5: note: previous implicit declaration of 'input' was here
+     input(&f1, &f2, &f3);
+     ^~~~~
+c:\Users\Dell\c_activity_sets\set04\problem02.c:29:10: error: conflicting types for 'smallest'
+ Fraction smallest(Fraction f1, Fraction f2, Fraction f3) {
+          ^~~~~~~~
+c:\Users\Dell\c_activity_sets\set04\problem02.c:12:20: note: previous implicit declaration of 'smallest' was here
+     min_fraction = smallest(f1, f2, f3);
+                    ^~~~~~~~
+c:\Users\Dell\c_activity_sets\set04\problem02.c:41:6: warning: conflicting types for 'output'
+ void output(Fraction f1, Fraction f2, Fraction f3, Fraction min) {
+      ^~~~~~
+c:\Users\Dell\c_activity_sets\set04\problem02.c:13:5: note: previous implicit declaration of 'output' was here
+     output(f1, f2, f3, min_fraction);
+     ^~~~~~
+Compilation finished at 3/4/2024, 6:15:07 PM
+Compilation started at 3/4/2024, 6:15:37 PM
+Compilation finished at 3/4/2024, 6:15:38 PM
