@@ -1,0 +1,14 @@
+Compilation started at 3/4/2024, 6:24:47 PM
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+Compilation finished at 3/4/2024, 6:24:48 PM
+Compilation started at 3/4/2024, 6:26:51 PM
+Compilation finished at 3/4/2024, 6:26:51 PM
+Compilation started at 3/4/2024, 6:28:29 PM
+Compilation finished at 3/4/2024, 6:28:29 PM
+Compilation started at 3/4/2024, 6:28:50 PM
+Compilation finished at 3/4/2024, 6:28:50 PM
+Compilation started at 3/4/2024, 6:29:02 PM
+Compilation finished at 3/4/2024, 6:29:03 PM
+Compilation started at 3/4/2024, 6:29:17 PM
+Compilation finished at 3/4/2024, 6:29:18 PM
